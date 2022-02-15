@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wally-Barbosa
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Espace
 
